@@ -14,7 +14,7 @@ Make sure you have the following installed:
 ## Clone the Repository
 
 ```sh
-git clone 
+git clone https://github.com/deevee47/deploying-nft.git
 cd deploying-nft
 ```
 
